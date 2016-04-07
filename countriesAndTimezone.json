@@ -2382,7 +2382,7 @@
                 {
                     "name": "Europe/Bucharest",
                     "GMT": "(GMT+02:00) Bucharest",
-                    "GMT": "(GMT+03:00) Bucharest"
+                    "DST": "(GMT+03:00) Bucharest"
                 }
             ]
         },
@@ -2705,7 +2705,7 @@
                 {
                     "name": "America/St_Barthelemy",
                     "GMT": "(GMT-04:00) St. Barthélemy",
-                    "GMT": "(GMT-04:00) St. Barthélemy"
+                    "DST": "(GMT-04:00) St. Barthélemy"
                 }
             ]
         },
@@ -3083,7 +3083,7 @@
                 {
                     "name": "Asia/Dubai",
                     "GMT": "(GMT+04:00) Dubai",
-                    "GMT": "(GMT+04:00) Dubai"
+                    "DST": "(GMT+04:00) Dubai"
                 }
             ]
         },
